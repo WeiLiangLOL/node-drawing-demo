@@ -6,6 +6,7 @@
 
 Ever wanted to draw stuff with your friends online? Me neither. Yay.
 Might demo this for my students, or maybe not. Doesn't really matter.
+Available [here](https://drawing-demo-thing.herokuapp.com/).
 
 ## Features
 

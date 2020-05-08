@@ -16,4 +16,4 @@ io.on('connection', (socket) => {
     socket.on('mouse', data => io.emit('mouse', data));
 });
 
-server.listen(process.env.port || 3000, () => console.log('[Server] Server started!'));
+server.listen(process.env.PORT || 3000, () => console.log('[Server] Server started!'));
